@@ -22,5 +22,11 @@ export const sites = [
     campus: "F",
     year: "2025",
     website: "https://sudhirkrisna.com"
+  },
+  {
+    name: "Abhishek Yerraguntla",
+    campus: "F", 
+	  year: "2024",
+	  website: "https://abh1.me"
   }
 ];

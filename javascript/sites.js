@@ -26,7 +26,7 @@ export const sites = [
   {
     name: "Abhishek Yerraguntla",
     campus: "F", 
-	  year: "2024",
-	  website: "https://abh1.me"
+	year: "2024",
+	website: "https://abh1.me"
   }
 ];

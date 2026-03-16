@@ -17,6 +17,12 @@ export const sites = [
     year: "2026",
     website: "https://github.com"
   },
+	{
+  name: "Christian Dennis",
+  campus: "SJ", // or "SJ"
+	year: "2024",
+	website: "https://portfolio-git-main-christiandenniss-projects.vercel.app/"
+},
   {
     name: "Sudhir Krisna",
     campus: "F",

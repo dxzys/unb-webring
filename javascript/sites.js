@@ -1,38 +1,26 @@
 export const sites = [
   {
-    name: "First Last",
-    campus: "F",
-    year: "2026",
-    website: "https://google.com"
-  },
-  {
-    name: "First2 Last2",
+    name: "Cameron Steeves",
     campus: "SJ",
-    year: "2069",
-    website: "https://test.ca"
+    year: "2026",
+    website: "https://steeves.cam/"
   },
   {
-    name: "First3 Last3",
-    campus: "F",
+    name: "Christian Dennis",
+    campus: "SJ",
     year: "2026",
-    website: "https://github.com"
+    website: "https://portfolio-git-main-christiandenniss-projects.vercel.app/"
   },
-	{
-  name: "Christian Dennis",
-  campus: "SJ", // or "SJ"
-	year: "2024",
-	website: "https://portfolio-git-main-christiandenniss-projects.vercel.app/"
-},
   {
     name: "Sudhir Krisna",
     campus: "F",
-    year: "2025",
+    year: "2026",
     website: "https://sudhirkrisna.com"
   },
   {
     name: "Abhishek Yerraguntla",
-    campus: "F", 
-	year: "2024",
-	website: "https://abh1.me"
+    campus: "F",
+    year: "2024",
+    website: "https://abh1.me"
   }
 ];

@@ -7,9 +7,9 @@ To add your site, fork this repo and open [javascript/sites.js](javascript/sites
 
 ```js
 {
-  name: "First Last",
-  campus: "F", // or "SJ"
-	year: "20XX",
+    name: "First Last",
+    campus: "F", // or "SJ" for Saint John
+    year: "2026",
 	website: "https://your-site.com"
 }
 ```

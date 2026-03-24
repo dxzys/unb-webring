@@ -166,6 +166,7 @@ body::after {
 }
 
 .add-site-link {
+  border-radius: 10px;
   position: fixed;
   left: 50%;
   bottom: 1rem;

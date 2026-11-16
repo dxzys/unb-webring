@@ -45,7 +45,7 @@ body::after {
 }
 
 .centerpiece {
-  width: min(860px, calc(100vw - 2rem));
+  width: min(860px, 100%);
   display: grid;
   place-items: center;
   gap: 0.95rem;
@@ -63,8 +63,8 @@ body::after {
 
 .tagline {
   margin: 0;
-  width: min(760px, 94vw);
-  max-width: min(760px, 94vw);
+  width: min(760px, 100%);
+  max-width: min(760px, 100%);
   font-size: clamp(0.92rem, 0.86rem + 0.35vw, 1.08rem);
   line-height: 1.45;
   color: rgba(20, 20, 20, 0.78);
@@ -72,7 +72,7 @@ body::after {
 
 .site-section {
   margin-top: 0.25rem;
-  width: min(760px, 94vw);
+  width: min(760px, 100%);
   text-align: left;
 }
 

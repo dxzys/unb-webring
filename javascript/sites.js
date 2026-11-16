@@ -6,6 +6,12 @@ export const sites = [
     website: "https://steeves.cam/"
   },
   {
+    name: "Hadi Akbar",
+    campus: "F",
+    year: "2028",
+    website: "https://www.hadiakbar.com/"
+  },
+  {
     name: "Christian Dennis",
     campus: "SJ",
     year: "2026",

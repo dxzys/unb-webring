@@ -118,7 +118,7 @@ body::after {
   display: grid;
   grid-template-columns: 2.1fr 0.8fr 0.8fr 2.1fr;
   gap: 0.8rem;
-  align-items: baseline;
+  align-items: center;
   border-bottom: 1px solid var(--line);
   padding: 0.66rem 0;
 }
